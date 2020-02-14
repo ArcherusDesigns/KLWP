@@ -1,0 +1,122 @@
+{
+	"ATL": {
+		"primary": "#c8102e",
+		"secondary": "#c4d600"
+	},
+	"BKN": {
+		"primary": "#010101",
+		"secondary": "#ffffff"
+	},
+	"BOS": {
+		"primary": "#007a33",
+		"secondary": "#ffd700"
+	},
+	"CHA": {
+		"primary": "#201747",
+		"secondary": "#00778b"
+	},
+	"CHI": {
+		"primary": "#ba0c2f",
+		"secondary": "#000000"
+	},
+	"CLE": {
+		"primary": "#6f263d",
+		"secondary": "#ffb81c"
+	},
+	"DAL": {
+		"primary": "#0050b5",
+		"secondary": "#8d9093"
+	},
+	"DEN": {
+		"primary": "#418fde",
+		"secondary": "#ffc72c"
+	},
+	"DET": {
+		"primary": "#003da5",
+		"secondary": "#d50032"
+	},
+	"GSW": {
+		"primary": "#ffc72d",
+		"secondary": "#003da5"
+	},
+	"HOU": {
+		"primary": "#ba0c2f",
+		"secondary": "#8d9093"
+	},
+	"IND": {
+		"primary": "#041e42",
+		"secondary": "#ffb81c"
+	},
+	"LAC": {
+		"primary": "#d50032",
+		"secondary": "#003da5"
+	},
+	"LAL": {
+		"primary": "#702f8a",
+		"secondary": "#ffc72c"
+	},
+	"MEM": {
+		"primary": "#23375b",
+		"secondary": "#6189b9"
+	},
+	"MIA": {
+		"primary": "#862633",
+		"secondary": "#000000"
+	},
+	"MIL": {
+		"primary": "#2c5234",
+		"secondary": "#ddcba4"
+	},
+	"MIN": {
+		"primary": "#002b5c",
+		"secondary": "#7ac143"
+	},
+	"NOP": {
+		"primary": "#002b5c",
+		"secondary": "#e31937"
+	},
+	"NYK": {
+		"primary": "#003da5",
+		"secondary": "#ff671f"
+	},
+	"OKC": {
+		"primary": "#007dc3",
+		"secondary": "#f05133"
+	},
+	"ORL": {
+		"primary": "#007dc5",
+		"secondary": "#c4ced3"
+	},
+	"PHI": {
+		"primary": "#006bb6",
+		"secondary": "#ed174c"
+	},
+	"PHX": {
+		"primary": "#e56020",
+		"secondary": "#1d1160"
+	},
+	"POR": {
+		"primary": "#f0163a",
+		"secondary": "#000000"
+	},
+	"SAC": {
+		"primary": "#724c9f",
+		"secondary": "#8e9090"
+	},
+	"SAS": {
+		"primary": "#b6bfbf",
+		"secondary": "#000000"
+	},
+	"TOR": {
+		"primary": "#ce1141",
+		"secondary": "#c4ced3"
+	},
+	"UTA": {
+		"primary": "#002b5c",
+		"secondary": "#f9a01b"
+	},
+	"WAS": {
+		"primary": "#0c2340",
+		"secondary": "#c8102e"
+	}
+}
