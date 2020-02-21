@@ -1,122 +1,122 @@
 {
 	"ATL": {
-		"primary": "#c8102e",
+		"primary": "#e21a37",
 		"secondary": "#c4d600"
 	},
 	"BKN": {
-		"primary": "#010101",
-		"secondary": "#ffffff"
+		"primary": "#000000",
+		"secondary": "#222222"
 	},
 	"BOS": {
-		"primary": "#007a33",
-		"secondary": "#ffd700"
+		"primary": "#00611b",
+		"secondary": "#ffffff"
 	},
 	"CHA": {
-		"primary": "#201747",
-		"secondary": "#00778b"
+		"primary": "#00848e",
+		"secondary": "#260f54"
 	},
 	"CHI": {
-		"primary": "#ba0c2f",
+		"primary": "#b00203",
 		"secondary": "#000000"
 	},
 	"CLE": {
-		"primary": "#6f263d",
-		"secondary": "#ffb81c"
+		"primary": "#860038",
+		"secondary": "#fdba31"
 	},
 	"DAL": {
-		"primary": "#0050b5",
+		"primary": "#006bb6",
 		"secondary": "#8d9093"
 	},
 	"DEN": {
-		"primary": "#418fde",
-		"secondary": "#ffc72c"
+		"primary": "#0e2240",
+		"secondary": "#ffcc2a"
 	},
 	"DET": {
-		"primary": "#003da5",
-		"secondary": "#d50032"
+		"primary": "#fa002c",
+		"secondary": "#0c479d"
 	},
 	"GSW": {
-		"primary": "#ffc72d",
-		"secondary": "#003da5"
+		"primary": "#003399",
+		"secondary": "#022486"
 	},
 	"HOU": {
-		"primary": "#ba0c2f",
-		"secondary": "#8d9093"
+		"primary": "#cd212b",
+		"secondary": "#00000"
 	},
 	"IND": {
-		"primary": "#041e42",
-		"secondary": "#ffb81c"
+		"primary": "#ffb517",
+		"secondary": "#033165"
 	},
 	"LAC": {
-		"primary": "#d50032",
-		"secondary": "#003da5"
+		"primary": "#ed174b",
+		"secondary": "#006bb6"
 	},
 	"LAL": {
-		"primary": "#702f8a",
-		"secondary": "#ffc72c"
+		"primary": "#fdba33",
+		"secondary": "#4c2276"
 	},
 	"MEM": {
-		"primary": "#23375b",
-		"secondary": "#6189b9"
+		"primary": "#5d76a9",
+		"secondary": "#f5b112"
 	},
 	"MIA": {
-		"primary": "#862633",
-		"secondary": "#000000"
+		"primary": "#98002e",
+		"secondary": "#f9a01b"
 	},
 	"MIL": {
-		"primary": "#2c5234",
-		"secondary": "#ddcba4"
+		"primary": "#00471b",
+		"secondary": "#f0ebd2"
 	},
 	"MIN": {
-		"primary": "#002b5c",
-		"secondary": "#7ac143"
+		"primary": "#2b6291",
+		"secondary": "#a0a2a3"
 	},
 	"NOP": {
-		"primary": "#002b5c",
-		"secondary": "#e31937"
+		"primary": "#0c2340",
+		"secondary": "#ca0814"
 	},
 	"NYK": {
-		"primary": "#003da5",
-		"secondary": "#ff671f"
+		"primary": "#f58426",
+		"secondary": "#052e78"
 	},
 	"OKC": {
-		"primary": "#007dc3",
-		"secondary": "#f05133"
+		"primary": "#002d62",
+		"secondary": "#f05033"
 	},
 	"ORL": {
-		"primary": "#007dc5",
+		"primary": "#0077c0",
 		"secondary": "#c4ced3"
 	},
 	"PHI": {
-		"primary": "#006bb6",
-		"secondary": "#ed174c"
+		"primary": "#ef0022",
+		"secondary": "#003da6"
 	},
 	"PHX": {
-		"primary": "#E76621",
-		"secondary": "#1d1060"
+		"primary": "#E76221",
+		"secondary": "#241b70"
 	},
 	"POR": {
-		"primary": "#f0163a",
-		"secondary": "#000000"
+		"primary": "#cc0000",
+		"secondary": "#333333"
 	},
 	"SAC": {
-		"primary": "#724c9f",
-		"secondary": "#8e9090"
+		"primary": "#51388a",
+		"secondary": "#5b6770"
 	},
 	"SAS": {
-		"primary": "#b6bfbf",
+		"primary": "#959191",
 		"secondary": "#000000"
 	},
 	"TOR": {
-		"primary": "#ce1141",
-		"secondary": "#c4ced3"
+		"primary": "#bd1b21",
+		"secondary": "#b8995a"
 	},
 	"UTA": {
-		"primary": "#002b5c",
-		"secondary": "#f9a01b"
+		"primary": "#f9a11e",
+		"secondary": "#0d223f"
 	},
 	"WAS": {
-		"primary": "#0c2340",
-		"secondary": "#c8102e"
+		"primary": "#cf142b",
+		"secondary": "#002b5c"
 	}
 }
